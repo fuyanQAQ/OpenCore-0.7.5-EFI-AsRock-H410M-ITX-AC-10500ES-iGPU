@@ -1,4 +1,4 @@
-# OpenCore-0.7.3-EFI-AsRock-H410M-ITX-AC-10500ES-iGPU
+# OpenCore-0.7.5-EFI-AsRock-H410M-ITX-AC-10500ES-iGPU
 # macOS Big Sur 11.5.1 and macOS Monterey 12beta5
 # Hackintosh
 
@@ -19,7 +19,7 @@
 - [x] 板载声卡
 - [x] 板载网卡
 - [x] 核显硬解
-- [x] wifi/蓝牙([大神的intel网卡驱动](https://docs.oiw.workers.dev/itlwm/))
+- [x] wifi/蓝牙([大神的intel网卡驱动](https://docs.oiw.workers.dev/itlwm/))(已删除驱动需要自己添加因为不知道你们需要大乌苏还是蒙特雷)
 - [x] 睡眠 / 唤醒
 - [x] USB2.0 / USB 3.0
 - [x] DRM
