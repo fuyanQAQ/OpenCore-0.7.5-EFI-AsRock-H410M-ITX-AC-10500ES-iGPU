@@ -21,10 +21,10 @@
 - [x] 核显硬解
 - [x] wifi/蓝牙([大神的intel网卡驱动](https://docs.oiw.workers.dev/itlwm/))(已删除驱动需要自己添加因为不知道你们需要大乌苏还是蒙特雷)
 - [x] 睡眠 / 唤醒
-- [x] USB2.0 / USB 3.0
+- [x] USB2.0 / USB 3.0（未专门定制需要去bigsur低版本或者windows定制）
 - [x] DRM
 - [x] 核显dp/hdmi输出
-
+-
 
 
 ## BIOS设置选项列表
